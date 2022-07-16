@@ -3,14 +3,17 @@
 ![I am a front-end developer](./images/cover.png)
 
 ---
-Looking to contribute to open source projects.
 
-Skills: ANGULAR / REACT / TS / JS / HTML / CSS / mongoDB / 
-        sometimes python
+Skills: 
+- languages JS | HTML | CSS | PYTHON
+- frameworks Angular | React | node.js
+- backend mongoDB
+- Familiar Firebase firestore | MySQL | Java | Android Dev
+        
 
-- 🌱 I’m currently learning backend part ( node.js | redux ( state management ) etc )  and about source projects. 
-- 📫 How to reach me: arvindchoudhary.in.connect@gmail.com 
-- ⚡ Random : I like nvim, cli tools & anything terminal. 
+- I’m currently learning backend frameworks and about open source projects. 
+- How to reach me: arvindchoudhary.in.connect@gmail.com 
+- Random : I like nvim, cli tools & anything terminal. 
 
 
 Contact 
