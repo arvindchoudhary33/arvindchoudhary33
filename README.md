@@ -7,7 +7,8 @@
 
 ---
 Skills: 
-- languages JS | HTML | CSS | PYTHON
+- languages JS | PYTHON
+- CSS( geek )
 - frameworks Angular | React | express.js
 - backend mongoDB
 - Familiar Firebase firestore | MySQL | Java | Android Dev
