@@ -1,15 +1,28 @@
-### Hi there 👋, Arvind Choudhary
-#### I am a front-end developer
-![I am a front-end developer](./images/conver.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: ANGULAR / REACT / TS / JS / HTML / CSS
-
-- 🌱 I’m currently learning backend technologies and about open source projects. 
-- 📫 How to reach me: arvindchoudhary.in.connect@gmail.com 
-- ⚡ Random : I like nvim, cli tools & anything terminal. 
+### Hi there, Arvind 
+## I am a front-end developer
+### _I enjoy building for web._
+---
+![I am a front-end developer](./images/cover.png)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arvindchoudhary33)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/arvind-choudhary-bb036b244?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMAJ%2BiQ6eQMKsM%2F%2FTJx6h5w%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](arvindchoudhary.in)  
+---
+Skills: 
+- languages JS | PYTHON
+- CSS( geek )
+- frameworks Angular | React | express.js
+- backend mongoDB
+- Familiar Firebase firestore | MySQL | Java | Android Dev
+---
+
+~ I’m currently learning backend frameworks and about open source projects. <br/>
+~ How to reach me: arvindchoudhary.in.connect@gmail.com <br/>
+~ Random : I like nvim, cli tools ( anything terminal ). 
+
+
+Contact 
+
+- [linkedin](https://www.linkedin.com/in/arvind-choudhary-bb036b244?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0PQVZANnSWCDhAh23w3Spg%3D%3D)
+
+- arvindchoudhary.in.connect.@gmail.com
+
 
