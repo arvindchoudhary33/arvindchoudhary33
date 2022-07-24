@@ -1,6 +1,5 @@
 ### Hi there, Arvind 
 ## I am a front-end developer
-### _I enjoy building for web._
 ---
 ![I am a front-end developer](./images/cover.png)
 
