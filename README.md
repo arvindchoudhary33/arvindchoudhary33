@@ -1,5 +1,4 @@
 ### Hi there, Arvind 
-## I am a front-end developer
 ---
 ![I am a front-end developer](./images/cover.png)
 
@@ -8,14 +7,14 @@
 Skills: 
 - languages JS | PYTHON
 - CSS( geek )
-- frameworks Angular | React | express.js
+- frameworks React | Angular | node.js
 - backend mongoDB
 - Familiar Firebase firestore | MySQL | Java | Android Dev
 ---
 
 ~ I’m currently learning backend frameworks and about open source projects. <br/>
 ~ How to reach me: arvindchoudhary.in.connect@gmail.com <br/>
-~ Random : I like nvim, cli tools ( anything terminal ). 
+~ Random : I like nvim, cli tools ( anything terminal ).
 
 
 Contact 
