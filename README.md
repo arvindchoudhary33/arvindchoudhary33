@@ -13,7 +13,6 @@ Skills:
 ---
 
 ~ I’m currently learning backend frameworks and about open source projects. <br/>
-~ How to reach me: arvindchoudhary.in.connect@gmail.com <br/>
 ~ Random : I like nvim, cli tools ( anything terminal ).
 
 
