@@ -4,10 +4,10 @@
 
 
 ---
-- JS | PYTHON
+- JS, PYTHON
 - Prefers plain CSS over MaterialBoot ( hehe )
 - Knows JS/TS frameworks - React, Angular
-- Familiar MongoDB, Firebase firestore | MySQL | Java | Android Dev
+- Familiar MongoDB, Firebase firestore, MySQL, Java, Android Dev
 ---
 
 ~ I’m currently learning backend frameworks and some stuff related to open source projects. <br/>
