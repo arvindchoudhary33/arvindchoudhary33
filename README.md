@@ -1,25 +1,20 @@
-### Hi there, Arvind 
+### Hello there, am Arvind 
 ---
 ![I am a front-end developer](./images/cover.png)
 
 
 ---
-Skills: 
-- languages JS | PYTHON
-- CSS( geek )
-- frameworks React | Angular | node.js
-- backend mongoDB
-- Familiar Firebase firestore | MySQL | Java | Android Dev
+- JS | PYTHON
+- Prefers plain CSS over MaterialBoot ( hehe )
+- Knows JS/TS frameworks - React, Angular
+- Familiar MongoDB, Firebase firestore | MySQL | Java | Android Dev
 ---
 
-~ I’m currently learning backend frameworks and about open source projects. <br/>
+~ I’m currently learning backend frameworks and some stuff related to open source projects. <br/>
 ~ Random : I like nvim, cli tools ( anything terminal ).
 
 
 Contact 
-
-- [linkedin](https://www.linkedin.com/in/arvind-choudhary-bb036b244?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0PQVZANnSWCDhAh23w3Spg%3D%3D)
-
 - arvindchoudhary.in.connect.@gmail.com
 
 
