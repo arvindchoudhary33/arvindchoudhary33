@@ -1,4 +1,3 @@
-### Hello there, am Arvind
 
 ~ Mostly javascript
 
