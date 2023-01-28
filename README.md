@@ -3,7 +3,7 @@
 
 ~ Specifically front-end
 
-~ Random : I like vim, cli tools ( anything terminal ).
+~ Random : I like nvim, cli tools ( anything terminal ).
 
 ~ hehe : I change my nvim theme more often then i code
 
