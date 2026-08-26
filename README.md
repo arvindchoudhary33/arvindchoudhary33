@@ -3,7 +3,7 @@
 
 - email: arvindchoudhary.in.connect@gmail.com
 
-- blog: [amlp33.xyz](amlp33.xyz)
+- blog: [amlp33.xyz](https://amlp33.xyz)
 
 - builds: 
   - [annot8.xyz](https://annot8.xyz) -  ( the name says itself )  
