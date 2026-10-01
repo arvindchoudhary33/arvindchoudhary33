@@ -5,7 +5,8 @@
 
 - blog: [amlp33.xyz](https://amlp33.xyz)
 
-- builds: 
+- builds:  
+  - [heycapy.xyz](https://heycapy.xyz) -  ( a capy to help you with your day )  
   - [annot8.xyz](https://annot8.xyz) -  ( the name says itself )  
   - [vimtrim.xyz](https://vimtrim.xyz) - ( useless app if you like vim )
  
